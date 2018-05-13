@@ -9,3 +9,8 @@ It's a normal plugin for wordpress.
 
 - Copy nimiq directory under "wp-content\plugins\"
 - Activate it in your WordPress admin area.
+
+# TODO
+
+- Control thread of Admin side, as well as front end
+- Graphs

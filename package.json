@@ -1,0 +1,38 @@
+{
+  "name": "NimiqMinerWP",
+  "author": "Robert Marshall",
+  "authorUri": "https://github.com/justlikethisdesign",
+  "version": "0.0.1",
+  "description": "A cryptocurrency miner for your Wordpress website. Powered by Nimiq",
+  "homepage": "",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "license": "GNU GPLv3",
+  "licenseUri": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "dev-ip": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-bump": "latest",
+    "gulp-changed": "^3.2.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-dest-clean": "^0.5.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-fs": "^0.0.2",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-strip-css-comments": "latest",
+    "gulp-uglify": "^1.5.3",
+    "gulp-uglifycss": "^1.0.6",
+    "require-dir": "latest",
+    "pump": "latest"
+  }
+}
